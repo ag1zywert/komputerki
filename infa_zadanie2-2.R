@@ -1,4 +1,4 @@
-print ("Za ile godzin wreszcie skoncza sie te studia?")
+paste ("Za ile godzin wreszcie skoncza sie te studia?")
 today <- Sys.Date()
 koniec_tego_koszmaru <- as.Date("2021-06-30")
 
