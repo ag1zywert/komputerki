@@ -1,7 +1,7 @@
-kwartal_1 <- c ("Styczen„", "Luty", "Marzec")
-kwartal_2 <- c ("Kwiecen„", "Maj", "Czerwiec")
-kwartal_3 <- c ("Lipiec", "Sierpien„", "Wrzesien„")
-kwartal_4 <- c ("Pazdziernik", "Listopad", "Grudzien„") 
+kwartal_1 <- c ("Styczenâ€ž", "Luty", "Marzec")
+kwartal_2 <- c ("Kwiecenâ€ž", "Maj", "Czerwiec")
+kwartal_3 <- c ("Lipiec", "Sierpien", "Wrzesien")
+kwartal_4 <- c ("Pazdziernik", "Listopad", "Grudzienâ€ž") 
 rok <- c (kwartal_1, kwartal_2, kwartal_3, kwartal_4)
 rok [1:2]
 rok [8:12]
