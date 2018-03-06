@@ -1,5 +1,5 @@
 
-
+i <-as.numeric
 while (i <= 2018)  
   if(i %% 4 == 0) 
     if(i %% 100 != 0) 
