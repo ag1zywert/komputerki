@@ -3,6 +3,9 @@
 # Chodziło mi o łopatologiczne operacje arytmetyczne "na twardo"
 # To jest idealne rozwiązanie.
 
+#JA: to jest ogólnie przetłumaczony skrypt z php, który oblicza ilosc dni ktore pozostałych do końca promki na samochody renault z rocznika 2k18
+#moj tate robil niedawno baner z takim odliczankiem, wiec to nie jest moj autorski skrypt tylko tlumaczenie z php no i zamiania dni/godziny
+
 paste ("Za ile godzin wreszcie skoncza sie te studia?")
 today <- Sys.Date()
 koniec_tego_koszmaru <- as.Date("2021-06-30")
@@ -17,3 +20,4 @@ lata_kiblowania <- c(0) #w miejsce 0 mozna wpisac lata jakie sie kiblowało czy 
 hours <- hours + dodac + (lata_kiblowania * 8760)
 
 paste("Ten koszmar skonczy sie za...", hours, "godzin")
+
