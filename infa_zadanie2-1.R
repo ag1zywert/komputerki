@@ -1,5 +1,5 @@
 ## KB:
-# Brakuje podpunktu 5. Spróbuj funkcją seq() żeby było elegancko.
+# Brakuje podpunktu 5. Spróbuj funkcją seq() żeby było elegancko. -> JA: Czy do tego trzeba użyć "if( costam %% 2 != 0)" czy jest jakas droga na skroty?
 # Uwaga na styl!:
 # - w R nie robi się spacji przed nawiasami!
 # można by zadeklarować zmienną ile_liter_w_roku <- nchar(rok)
