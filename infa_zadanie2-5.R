@@ -1,3 +1,8 @@
+## KB: 
+# To nie działa ale kierunek z grubsza dobry
+# Rozwiązanie z fibonacci_java dobre tylko przepisz 
+# w DOBRYM STYLU na R:)
+
 fibonacci  <- function(n){
  
   

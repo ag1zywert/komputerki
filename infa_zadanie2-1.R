@@ -1,3 +1,10 @@
+## KB:
+# Brakuje podpunktu 5. Spróbuj funkcją seq() żeby było elegancko.
+# Uwaga na styl!:
+# - w R nie robi się spacji przed nawiasami!
+# można by zadeklarować zmienną ile_liter_w_roku <- nchar(rok)
+# Reszta fajnie.
+
 kwartal_1 <- c ("Styczen„", "Luty", "Marzec")
 kwartal_2 <- c ("Kwiecen„", "Maj", "Czerwiec")
 kwartal_3 <- c ("Lipiec", "Sierpien", "Wrzesien")
@@ -8,6 +15,6 @@ rok [8:12]
 nchar (rok)
 mean (nchar(rok))
 sd (nchar(rok))
-mean (nchar(rok [12:3]))
+mean (nchar(rok [12:3]))  
 sd (nchar(rok [12:3]))
 subset (rok, endsWith(rok, "ec"))
