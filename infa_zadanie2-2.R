@@ -1,3 +1,8 @@
+## KB:
+# To jest aż za skomplikowane i za dobre rozwiązanie:)
+# Chodziło mi o łopatologiczne operacje arytmetyczne "na twardo"
+# To jest idealne rozwiązanie.
+
 paste ("Za ile godzin wreszcie skoncza sie te studia?")
 today <- Sys.Date()
 koniec_tego_koszmaru <- as.Date("2021-06-30")

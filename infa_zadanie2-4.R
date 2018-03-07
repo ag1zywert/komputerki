@@ -1,3 +1,5 @@
+## KB:
+# To nie działa
 
 i <-as.numeric
 while (i <= 2018)  
