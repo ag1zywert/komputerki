@@ -15,7 +15,7 @@ dodac <- as.numeric(difftime(strptime("23:59", format = "%H:%M"),
                              strptime("23:59", format = "%H:%M")), units="hours")
 print ("Czy kiblowałeś, jeśli tak to podaj ile to bylo, w latach?")
 
-lata_kiblowania <- c(0) #w miejsce 0 mozna wpisac lata jakie sie kiblowało czy coś tam 
+lata_kiblowania <- c(0) #w miejsce 0 mozna wpisac lata jakie sie kiblowało czy coś tam !!PYTANKO!! Jak zrobic, zeby to uzytkownik mogl to wpisac, nie muszac wchodzic w kod zrodlowy?
 
 hours <- hours + dodac + (lata_kiblowania * 8760)
 
