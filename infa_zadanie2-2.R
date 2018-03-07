@@ -4,7 +4,7 @@
 # To jest idealne rozwiązanie.
 
 #JA: to jest ogólnie przetłumaczony skrypt z php, który oblicza ilosc dni ktore pozostałych do końca promki na samochody renault z rocznika 2k18
-#moj tate robil niedawno baner z takim odliczankiem, wiec to nie jest moj autorski skrypt tylko tlumaczenie z php no i zamiania dni/godziny
+#moj tate robil niedawno baner z takim odliczankiem, wiec to nie jest moj autorski skrypt tylko tlumaczenie z php no i zamiana dni/godziny
 
 paste ("Za ile godzin wreszcie skoncza sie te studia?")
 today <- Sys.Date()
