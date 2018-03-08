@@ -1,13 +1,12 @@
 ## KB:
 # To nie działa
+#JA: Chyba się poddaję trochę
 
-i <- as.numeric(1800:2018)
-while (i < 2018)  
-  if(i %% 4 == 0) 
-    if(i %% 100 != 0) 
-      print(i)
-    
-   else if(i %% 400 == 0) 
-    print(i)
-  
+lata <- 1800
+while (lata <= 2018) {  
+ if (((lata %% 4) == 0) & ((lata %% 100) != 0)
+ else if(lata %% 400 == 0) 
+      lata(i)
+      i -> i + 1
+}
 
