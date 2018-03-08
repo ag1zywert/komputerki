@@ -4,9 +4,12 @@
 # w DOBRYM STYLU na R:)
 #JA: niestety nie mam dobrego stylu:(
 
-fibonacci <- function(n, a=1, b=1){ 
-  if(n == 1) return(a)
-  if(n == 2) return(b)
-  return(fibonacci(n-1,b,a+b)) #nie wiem czy to coś zmienia
+fib <- function(n, a=1, b=1){ 
+  if(n == 1) {
+  return(a)
+  } esle if(n == 2) { return(b)
+  } else 
+  return(fib(n-1, b, a+b))
+  print (n)
   
-} 
+#nie wiem, czy to coś zmienia
