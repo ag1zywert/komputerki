@@ -1,0 +1,18 @@
+#Zadanie 4-1
+Mpg to zbiór danych nt. 38 samochodów od 1999-2008 i ich "fuel economy"
+#W zbiorze znajduje siê 11 zmiennych
+#engine displacement (displ) to pojemnoœæ silnika podany w litrach, 
+miles per gallon oznacza ile mo¿na mil przejechaæ na jednym galonie, a galon to miara objêtoœci w UK (~4,54) i US (~3,78)
+w tych danych jest rozró¿nienie na to ile na autostradzie a ile w mieœcie - highway miles per gallon (hwy) / city miles per gallon (cty)
+#
+* (model) model name - nazwa modelu samochodu 
+* (displ) engine displacement, in litres - pojemnoœæ silnika w litrach
+* (year) year of manufacture - rok produkcji
+* (cyl) number of cylinders - liczba cylindrów 
+* (trans) type of transmission - rodzaj spalania czy coœ
+* (drv) f = front-wheel drive, r = rear wheel drive, 4 = 4wd
+* (cty) city miles per gallon - spalanie w miescie 
+* (hwy) highway miles per gallon - spalanie na autostradzie
+* (fl) fuel type - rodzaj paliwka
+* (class) "type" of car - rodzaj autka 
+
