@@ -3,7 +3,9 @@
 
 library(tidyverse)
 ggplot(data = mpg) +
-  geom_point(mapping = aes (x=displ, y=cty))
+  geom_point(mapping = aes (x=displ, y=cty)) +
+  labs(title = "Pojemność silnika a spalania w mieście", x = "pojemność", y= "spalanie w mieście") +
+  theme_light()
 
 
 #zadanie 4-3
