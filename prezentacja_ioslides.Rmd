@@ -28,7 +28,9 @@ zrobić coś więcej, ale chyba jestem na to troszkę za durna narazie, więc mo
 - że powinnam zająć się w życiu czynś _sensownym_, bo ostatnio to tylko siedzę przed kompem, biję ludzi i biegam nad morze. Cytując klasyka:
 > "I don’t understand how people… live. It’s amazing to me that people wake up every morning and say: ‘Yeah, another day, let’s do it.’ How do people do it? I don’t know how."
 
-# Okazało się, że umiem jeszcze zrobić tak `print(fajnie_co)` że niby to jest code, **SO MUCH FUN**
+# Okazało się, że umiem jeszcze zrobić tak
+`print(fajnie_co)`
+że niby to jest code, **SO MUCH FUN**
 
 ## Dziękuję za obecność na mojej prezentacji o _niczym_
 
