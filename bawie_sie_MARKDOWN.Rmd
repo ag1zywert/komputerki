@@ -1,5 +1,5 @@
 ---
-title: 'Markdown, podejœcie: 1'
+title: 'Markdown, podejÅ›cie: 1'
 author: "Agata Zywert"
 date: "15 marca 2018"
 output:
@@ -11,41 +11,41 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-###Okej, here we go!
+### Okej, here we go!
 
-Nazywam siê **Agata Zywert** i to mój pierwszy pliczek pisany w _R Markdown_, jako, ¿e nie mam pomys³u co by tutaj napisaæ, a nie chcê znów pisaæ g³upot, opiszê coœ na czym siê znam. Jako, ¿e nie ma za wielu, niestety takich rzeczy, bêdzie to krótka opowieœæ o ewolucji wizerunku Robina jako sidekicka Batmana. 
+Nazywam siÄ™ **Agata Zywert** i to mÃ³j pierwszy pliczek pisany w _R Markdown_, jako, Å¼e nie mam pomysÅ‚u co by tutaj napisaÄ‡, a nie chcÄ™ znÃ³w pisaÄ‡ gÅ‚upot, opiszÄ™ coÅ› na czym siÄ™ znam. Jako, Å¼e nie ma za wielu, niestety takich rzeczy, bÄ™dzie to krÃ³tka opowieÅ›Ä‡ o ewolucji wizerunku Robina jako sidekicka Batmana. 
 
-##1. Kim w ogóle jest Robin?
+## 1. Kim w ogÃ³le jest Robin?
 
-Robin to tak naprawdê szereg postaci - pomocników/sidekicków Batmana, znanych g³ównie z
-serii komiksów wydawanych przed DC Comics. Pierwszy raz postaæ Robina pojawi³a siê w 38 numerze _Detective Comics_ z kwietnia 1940 roku.
+Robin to tak naprawdÄ™ szereg postaci - pomocnikÃ³w/sidekickÃ³w Batmana, znanych gÅ‚Ã³wnie z
+serii komiksÃ³w wydawanych przed DC Comics. Pierwszy raz postaÄ‡ Robina pojawiÅ‚a siÄ™ w 38 numerze _Detective Comics_ z kwietnia 1940 roku.
 
-Pierwszym Robinem, który pojawi³ siê u boku Batmana by³ **_Dick Grayson_** (tak naprawdê goœciu mia³ na imiê Richard, co za debil wymyœli³ taki skrót od tego imienia). Grayson tworzy³ z Batmanem tzw. dynamic duo i nazywany by³ cudownym ch³opcem _"The boy wonder"_ (swoj¹ drog¹ co za gejoza)
+Pierwszym Robinem, ktÃ³ry pojawiÅ‚ siÄ™ u boku Batmana byÅ‚ **_Dick Grayson_** (tak naprawdÄ™ goÅ›ciu miaÅ‚ na imiÄ™ Richard, co za debil wymyÅ›liÅ‚ taki skrÃ³t od tego imienia). Grayson tworzyÅ‚ z Batmanem tzw. dynamic duo i nazywany byÅ‚ cudownym chÅ‚opcem _"The boy wonder"_ (swojÄ… drogÄ… co za gejoza)
 
 ![](https://ladybatman.files.wordpress.com/2014/03/dick-grayson-lead-image.png?w=255&h=300)
-Tak mniej wiêcej siê Grayson prezentowa³,
+Tak mniej wiÄ™cej siÄ™ Grayson prezentowaÅ‚,
 
-ogólnie pojawi³ siê w ¿yciu Batmana, gdy¿ jak mia³ 13 lat zaciupali mu rodziców (na arenie cyrkowej, gdzie Dick by³ równie¿ akrobat¹), zabi³ ich gangster Tony Zuco. No i Batman sobie pomyœla³:
+ogÃ³lnie pojawiÅ‚ siÄ™ w Å¼yciu Batmana, gdyÅ¼ jak miaÅ‚ 13 lat zaciupali mu rodzicÃ³w (na arenie cyrkowej, gdzie Dick byÅ‚ rÃ³wnieÅ¼ akrobatÄ…), zabiÅ‚ ich gangster Tony Zuco. No i Batman sobie pomyÅ›laÅ‚:
 
-> "Aeh Dick oksik doksik, mo¿esz byæ moim Robinem"
+> "Aeh Dick oksik doksik, moÅ¼esz byÄ‡ moim Robinem"
 
-Co sprawi³o, ¿e jednoczeœnie Bruce Wayne pomyœla³:
+Co sprawiÅ‚o, Å¼e jednoczeÅ›nie Bruce Wayne pomyÅ›laÅ‚:
 
-> "Aeh Richard oksik doksik, mo¿esz byæ moim synalkiem"
+> "Aeh Richard oksik doksik, moÅ¼esz byÄ‡ moim synalkiem"
 
-##2. Dobra akurat Dick by³ moim najmniej ulubionym **Robinem**, ale nie chcê wiêcej mi siê o nim pisaæ, wiêc wypróbujê inne opcje, które jeszcze umiem, poprzez wymienienie Robinów:
+## 2. Dobra akurat Dick byÅ‚ moim najmniej ulubionym **Robinem**, ale nie chcÄ™ wiÄ™cej mi siÄ™ o nim pisaÄ‡, wiÄ™c wyprÃ³bujÄ™ inne opcje, ktÃ³re jeszcze umiem, poprzez wymienienie RobinÃ³w:
 
-* ####Jason Todd
-* ####Timothy Drake
-* ####Stephanie Brown
-* ####Damian Wayne
+* #### Jason Todd
+* #### Timothy Drake
+* #### Stephanie Brown
+* #### Damian Wayne
 
-Zatrzymajmy siê przy tym ostatnim, **Damian Wayne** krew z krwi, aeh, postaæ stworzona przez Mike’a W. Barra (debiut w Batman: [Son of the Demon z 1987](https://i.ebayimg.com/images/g/7I4AAOSwT5tWMlfM/s-l300.jpg),
+Zatrzymajmy siÄ™ przy tym ostatnim, **Damian Wayne** krew z krwi, aeh, postaÄ‡ stworzona przez Mikeâ€™a W. Barra (debiut w Batman: [Son of the Demon z 1987](https://i.ebayimg.com/images/g/7I4AAOSwT5tWMlfM/s-l300.jpg),
 pierwszy raz jako Robin w [Batman and Robin vol. 1 #1 z sierpnia 2009](https://vignette.wikia.nocookie.net/marvel_dc/images/d/d9/Batman_and_Robin_Vol_1_1A.jpg/revision/latest?cb=20090606000011)).
 
-Uwielbiam Damiana Wayne'a, bo jest œmieszny i bezczelny i ma³y, a ja te¿, wiêc czujê z nim wiêŸ.
+Uwielbiam Damiana Wayne'a, bo jest Å›mieszny i bezczelny i maÅ‚y, a ja teÅ¼, wiÄ™c czujÄ™ z nim wiÄ™Åº.
 
-##3. Dobra koniec, odsy³am do [**prezki**](http://prezi.com/rm-u664mmjpt/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+## 3. Dobra koniec, odsyÅ‚am do [**prezki**](http://prezi.com/rm-u664mmjpt/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
-Prezka jest w tym temacie o wiele bardziej rozwiniêta.
+Prezka jest w tym temacie o wiele bardziej rozwiniÄ™ta.
 
