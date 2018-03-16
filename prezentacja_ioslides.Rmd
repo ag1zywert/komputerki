@@ -4,27 +4,31 @@ author: "Agata Zywert"
 date: "16 marca 2018"
 output: ioslides_presentation
 ---
-# Czemu warto umieæ siê biæ?
+# Czemu warto umieÄ‡ siÄ™ biÄ‡?
 
-## Oto ró¿ne argumenty:
+## Oto rÃ³Å¼ne argumenty:
 
-- Mo¿na siê obroniæ bêd¹c napadniêtym przez z³oczyñców
-- Mo¿na przywaliæ komuœ jak gada g³upoty
-- Ludzie siê wtedy ciebie boj¹
-- Bicie siê robi ³adne bicepsy
-- Mo¿na sobie podnieœæ samoocenê
-- Mo¿na wy³adowaæ zbêdn¹ agresjê
+- MoÅ¼na siÄ™ obroniÄ‡ bÄ™dÄ…c napadniÄ™tym przez zÅ‚oczyÅ„cÃ³w
+- MoÅ¼na przywaliÄ‡ komuÅ› jak gada gÅ‚upoty
+- Ludzie siÄ™ wtedy ciebie bojÄ…
+- Bicie siÄ™ robi Å‚adne bicepsy
+- MoÅ¼na sobie podnieÅ›Ä‡ samoocenÄ™
+- MoÅ¼na wyÅ‚adowaÄ‡ zbÄ™dnÄ… agresjÄ™
 
-## Jakie s¹ minusy bicia siê?
-> Ogólnie moim zdaniem to s¹ minusy do zaakceptowania, które w ogóle nie powinny przewa¿aæ w decyzji o tym, czy nauczyæ siê biæ:
+## Jakie sÄ… minusy bicia siÄ™?
+> OgÃ³lnie moim zdaniem to sÄ… minusy do zaakceptowania, ktÃ³re w ogÃ³le nie powinny przewaÅ¼aÄ‡ w decyzji o tym, czy nauczyÄ‡ siÄ™ biÄ‡:
 
-- robi¹ siê siniaki
-- jeœli jesteœ dziewczyn¹, ch³opaki bêd¹ do ciebie mówiæ "stary" albo "ziomek"
+- robiÄ… siÄ™ siniaki
+- jeÅ›li jesteÅ› dziewczynÄ…, chÅ‚opaki bÄ™dÄ… do ciebie mÃ³wiÄ‡ "stary" albo "ziomek"
 
-# Chcia³abym umieæ zmieniæ kolor i font i w ogóle | zrobiæ coœ wiêcej, ale chyba jestem na to troszkê za durna narazie, wiêc mo¿e chocia¿ **zrobiê** _to_ **_hehe_**
+# ChciaÅ‚abym umieÄ‡ zmieniÄ‡ kolor i font i w ogÃ³le | zrobiÄ‡ coÅ› wiÄ™cej, ale chyba jestem na to troszkÄ™ za durna narazie, wiÄ™c moÅ¼e chociaÅ¼ **zrobiÄ™** _to_ **_hehe_**
 
-## Dziêkujê za obecnoœæ na mojej prezentacji o _niczym_
+# Mam takie poczucie 
+> Å¼e powinnam zajÄ…Ä‡ siÄ™ w Å¼yciu czynÅ› _sensownym_, bo ostatnio to tylko siedzÄ™ przed kompem, bijÄ™ ludzi i biegam nad morze. CytujÄ…c klasyka:
+> "I donâ€™t understand how peopleâ€¦ live. Itâ€™s amazing to me that people wake up every morning and say: â€˜Yeah, another day, letâ€™s do it.â€™ How do people do it? I donâ€™t know how."
+
+## DziÄ™kujÄ™ za obecnoÅ›Ä‡ na mojej prezentacji o _niczym_
 
 - jak
 - mam
-- ¿yæ
+- Å¼yÄ‡
