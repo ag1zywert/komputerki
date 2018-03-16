@@ -4,3 +4,4 @@ Kurde nie sądziłam, że są takie **cool** rzeczy na świecie (jak ggplot2 for
 [**polecam**](https://www.youtube.com/watch?v=dn4B3KkloS0)
 A mogę tutaj zrobić jakiś cytat:
 > "I don't think I believe in 'deep down'. I think that all you are is just the things that you do."
+Dobra umiem jeszcze `print(fajna_rzecz)` boże fajnie
