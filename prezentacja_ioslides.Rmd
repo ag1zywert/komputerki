@@ -1,0 +1,30 @@
+---
+title: "Moja pierwsza prezentacja"
+author: "Agata Zywert"
+date: "16 marca 2018"
+output: ioslides_presentation
+---
+# Czemu warto umieæ siê biæ?
+
+## Oto ró¿ne argumenty:
+
+- Mo¿na siê obroniæ bêd¹c napadniêtym przez z³oczyñców
+- Mo¿na przywaliæ komuœ jak gada g³upoty
+- Ludzie siê wtedy ciebie boj¹
+- Bicie siê robi ³adne bicepsy
+- Mo¿na sobie podnieœæ samoocenê
+- Mo¿na wy³adowaæ zbêdn¹ agresjê
+
+## Jakie s¹ minusy bicia siê?
+> Ogólnie moim zdaniem to s¹ minusy do zaakceptowania, które w ogóle nie powinny przewa¿aæ w decyzji o tym, czy nauczyæ siê biæ:
+
+- robi¹ siê siniaki
+- jeœli jesteœ dziewczyn¹, ch³opaki bêd¹ do ciebie mówiæ "stary" albo "ziomek"
+
+# Chcia³abym umieæ zmieniæ kolor i font i w ogóle | zrobiæ coœ wiêcej, ale chyba jestem na to troszkê za durna narazie, wiêc mo¿e chocia¿ **zrobiê** _to_ **_hehe_**
+
+## Dziêkujê za obecnoœæ na mojej prezentacji o _niczym_
+
+- jak
+- mam
+- ¿yæ
