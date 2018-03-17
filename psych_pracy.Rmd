@@ -4,8 +4,8 @@ author: "Agata Zywert"
 date: "17 marca 2018"
 output:
   html_document: default
-  pdf_document: default
   word_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 > "Znaczenie pracy możemy zdefiniować na różne sposoby m.in. jako: działalności gospodarczą zmierzającą do zaspokojenia potrzeń, sposób wydatkowania siły roboczej, fizycznej i psychicznej, działanie zmierzające do pokonania oporu materii, czynność kształtująca przyrodę, formę uzewnętrzniania możliwości twórczych człowieka, sposób tworzenia kultury, podstawę kultury"
 
 ## 2. ILO
- _Międzynarodowa Organizacja Pracy - International Labour Organization_
+#### _Międzynarodowa Organizacja Pracy - International Labour Organization_
 Została utworzona 28.06.1919, nie wiem w ogóle po co jest ta informacja o niej, ale na tym slajdzie jest również napisane o ustawach o zawodach, związkach zawodowych i stowarzyszeniach :)
 
 ## 3. Stosunek wobec pracy i postawy wobec pracy
@@ -29,22 +29,22 @@ Została utworzona 28.06.1919, nie wiem w ogóle po co jest ta informacja o niej
 
 ## 4. Co wpływa na stosunek ludzi do pracy?
 
-**3 grupy czynników**
-* **czynniki ogólnie tak zwane _makrospołeczne_:**
+#### 3 grupy czynników
+* #####**czynniki ogólnie tak zwane _makrospołeczne_:**
 * system społeczno – ekonomiczny 
 * ustrój społeczno polityczny, z systemem podejmowania decyzji politycznych, kulturowych
-* **Czynniki związane z indywidualnymi, zawodowymi, demograficznymi i osobowościowymi cechami pracownika:**
+* #####**Czynniki związane z indywidualnymi, zawodowymi, demograficznymi i osobowościowymi cechami pracownika:**
 * płeć
 * wiek
 * stan rodziny
 * wykształcenie
 itp.
-* **Czynniki związane z określonym rodzajem działalności ludzkiej, tzw. _mikrospołeczne_ np.:**
+* #####**Czynniki związane z określonym rodzajem działalności ludzkiej, tzw. _mikrospołeczne_ np.:**
 * działalności produkcyjnej
 * politycznej
 * zawodowej
 
-**Obiektywny charakter stosunku do pracy wyraża się w takich postawach pracownika jak:**
+####Obiektywny charakter stosunku do pracy wyraża się w takich postawach pracownika jak:
 * efektywność pracy
 * podejmowanie inicjatyw zawodowych 
 * podejmowanie działalności wynalazczej 
@@ -597,7 +597,275 @@ _Efekt trudnej sytuacji, w której czynniki środowiskowe mają duże znaczenie_
 
 
 
+## 39. Komunikacja w pracy
 
+**Komunikacja jest dwustronnym przekazywaniem informacji, idei, uczuć za pomocą symboli werbalnych i niewerbalnych**
+
+`no shit, Sherlock XD`
+
+#### Komunikacja interpersonalna 
+
+* jest czymś, co wydarza się pomiędzy ludźmi, a nie tylko czymś, co jedna osoba przekazuje za pomocą słów bądź gestów drugiej osobie (dynamiczny proces).
+interpersonalnaJohn Stewart definiuje komunikację interpersonalną jako:
+
+> taki typ, jakość lub rodzaj kontaktu, który pojawia się kiedy osoby mówią lub słuchają w sposób maksymalizujący to, co osobiste. 
+
+## 40. Kierowanie ludźmi - przewodzenie
+
+   * **Funkcje kierownicze**:
+* Planowanie
+* Organizowanie
+* Kontrolowanie
+   * **Psychologiczne właściwości skutecznych działań kierowniczych:**
+* Asertywność
+* Motywacja
+* Twórczość
+* Krytycyzm
+* Ekstrawersja
+* Brak zniekształceń patologicznych - dewiacji
+
+## 41. Komunikacja w grupie zadaniowej
+
+* Osiągnięcie wspólnego celu nadrzędne wobec celów i potrzeb indywidualnych.
+* Wymaga większej współpracy i lepszego wzajemnego dostosowania niż rozmowa w warunkach bardziej kameralnych.
+* Struktura dyskusji w grupach często opiera się na sztywnych zasadach – obrady vs swobodna przyjacielska rozmowa.
+* Określona struktura ma swoje uzasadnienie: służy studzeniu emocji, pozwala dojść do głosu opozycji oraz systematycznie przybliża dyskusję do rozwiązania.
+
+## 42. Jak zostać liderem?
+
+`bardziej interesowałoby mnie jak zostać dilerem, ale ok.`
+
+* Aby skutecznie kierować pracownikami –podwładnymi należy najpierw nauczyć się kierować sobą i postępować optymalnie.
+* Żeby móc poznać ludzi –trzeba poznać siebie
+* Aby oceniać innych – najpierw oceń siebie
+* Jeśli chcesz rozpoznać czyjeś emocje –musisz poznać swoje emocje i mieć je nazwać
+
+`XD co to za kołczingowe bzdury są`
+
+**Lider doskonały**:
+
+* Liderzy nie rodzą się, lecz kształtują
+* Możesz nauczyć się pełnić kierowniczą funkcje
+* Nie można być liderem w osamotnieniu; potrzebujesz tych, którzy potrzebują przywódcy
+* Przewodzenie wiąże się z wyrazami szacunku, a niekoniecznie sympatii
+* Musisz znaleźć własny sposób przewodzenia
+* Liderzy uczą się, dojrzewają, poznają samych siebie i wiedzą, czego chcą
+
+**"Wielka siódemka” (zasady sprawowania kierowniczej funkcji)**
+
+* Wnikliwość
+* Unicjatywa
+* Inspiracja
+* Zaangażowanie
+* Improwizacji
+* Indywidualność
+* Realizacja
+
+
+## 43. Role w grupach zadaniowych
+
+* _**Członkowie**_:
+    * **inicjatorzy** - zabierają głos pierwsi. Inicjują dyskusje, dostarczając faktów, dzielą się odpowiednimi informacjami i doświadczeniami oraz wypowiadają swoje opinie
+    * **respondenci** - słuchają i reagują na to, co słyszą, podsumowując i rozwijając dany temat. Oceniają informacje, krytykują propozycje oraz zadają pytania.
+* Przez cały czas trwania dyskusji członkowie grupy na zmianę inicjują i reagują na treść. Obie role są równie ważne i niezbędne w zachodzącym procesie.
+* Niekiedy jednak równowaga tych ról może zostać zaburzona.
+* Utrzymanie równowagi jest jednym z zadań lidera grupy.
+    * **Liderzy** - rożne role lidera, w zależności od sytuacji i potrzeb grupy:
+* jest organem wykonawczym (ustala zasady, plan zebrań, terminy spotkań)
+* planuje
+* ustala politykę grupy (wskazówki dla zarządu, ogólne zasady)
+* jest ekspertem
+* jest przedstawicielem grupy na zewnątrz (reprezentuje grupę wobec świata zewnętrznego)
+* wpływa na relacje pomiędzy członkami grupy (łączy i rozdziela poszczególne osoby, awansuje i degraduje)
+* przyznaje nagrody i wymierza kary (chwali, krytykuje, za zasługi przydziela funkcje i role zadaniowe)
+* jest arbitrem
+* jest przykładem (służy jako wzorzec właściwego zachowania w grupie)
+
+
+## 44. Bariery utrudniające komunikacje w grupach zadaniowych:
+
+**Zapominanie o właściwej hierarchii potrzeb w grupie.**
+
+* _**Agresorzy**_ – atakowanie innych członków grupy; własna wygrana ważniejsza od sukcesu grupy.
+* _**Defetyści**_ - przekonani, że istniejących problemów nie da się rozwiązać. Sabotowanie postępu.
+* _**Gwiazdy**_ – skupianie na sobie całej uwagi grupy.
+* _**Gawędziarze**_ – skupianie się na sprawach marginalnych i nieistotnych.
+* _**Klowni**_ – chęć zabawiania i innych jest ważniejsza niż cel grupy.
+* _**Zwierzchnicy**_ – wolą rządzić niż rozwiązywać problemy.
+* _**Fanatycy**_ – odnoszenie wszystkiego do własnej obsesji, niezależnie od tego jaki jest cel grupy.
+
+## 45. Zasady skutecznego funkcjonowania grup zadaniowych
+
+`jezu jakie banały to są nie mam na to słów`
+
+* Ustal cel spotkania grupy.
+* Uświadom sobie swoje opinie.
+* Słuchaj.
+* Bierz czynny udział.
+* Zachowaj zimna krew.
+
+## 46. Mobbingi dyskryminacja w miejscu pracy
+
+> Mobbing to długotrwały (co najmniej przez 6 miesięcy, co najmniej raz w tygodniu) terror psychiczny stosowany w pracy wobec jednostki.
+
+> Mobbing to rodzaj terroru psychicznego, stosowanego przez jedną lub kilka osób przeciwko (przeważnie) jednej osobie. Molestowanie psychiczne powtarza się systematycznie zaś osoba maltretowania pozbawiona jest możliwości obrony. W tej sytuacji bezradności i bezsilności pozostaje tak długo, jak długo utrzymują się działania mobbingowew jej kierunku.
+
+#### MOBBING TO PROCES:
+
+* Przemocy i nękania (dręczenia) psychicznego pracownika
+* Trwający długo i systematycznie
+* Godzący w godność i integralność człowieka
+* Mający na celu: poniżenie, ośmieszenie, zaniżenie samooceny, wyeliminowanie lub odizolowanie pracownika od współpracowników
+
+#### Przyczyny mobbingu:
+
+**Wymienia się następujące grupy przyczyn sprzyjających wystąpieniu u mobbingu**:
+
+* przyczyny społeczne,
+* cechy zarządzającego organizacją,
+*szczególna pozycja społeczna ofiary mobbingu.
+
+#### Miejsce występowania:
+* Z przemocą psychiczną mamy do czynienia tam, gdzie ludzie przebywają ze sobą w
+grupie przez dłuższy czas –w szkole, wyższej uczelni, w miejscu pracy, w
+stowarzyszeniach i wspólnotach a także w rodzinie.
+
+#### Narzędzia jakimi posługuje się mobbing to:
+* szykany, zwodzenie, podstęp i intryga, kłamstwa, plotki, oszczerstwa, zachowania
+sadystyczne. Ich wystąpieniu sprzyja taka organizacja pracy, gdzie osobę traktuje się
+instrumentalnie.
+
+**Pojęcie _bullying_ zarezerwowane jest dla opisania zjawisk przemocy w szkole, w grupach dzieci i młodzieży, gdzie poza agresją psychiczną występują akty przemocy fizycznej, która w przypadku mobbingu jest spotykana bardzo rzadko.**
+
+#### FAZY MOBBINGU:
+
+   * **Faza wczesna z fazą rozszerzania się mobbingu**:
+* Faza powstawania nierozwiązywanych konfliktów. Osoba, która zaczyna
+być poddawana mobbingowipodejmuje racjonalne, choć nieskuteczne
+próby przyczynienia się do złagodzenia czy rozwiązania konfliktu.
+* Pojawienie się typowych działań mobbingowych.
+* Pojawienie się przewlekłego złego samopoczucia ofiary i codzienny
+strach przed pójściem do pracy oraz ciągłe stany napięcia nerwowego
+prowadzące do reakcji stresowej.
+* Organizm wysyła sygnały alarmowe -bóle głowy, bóle brzucha, bóle za mostkowe. Z czasem do objawów dołączają: Nudności, wymioty, wzrost ciśnienia tętniczego krwi, bezsenność, zaburzenia koncentracji i stany lękowe oraz depresyjne.
+* Często nadużywanie alkoholu przez ofiarę, leków uspokajających czy nasennych lub Innych używek.
+
+   * **Faza “stabilnego mobbingu”**
+* trwale wyznaczenie roli “kozła ofiarnego”.
+* Stygmatyzacja, zakwalifikowanie jako: mądrala, kłamca, krętacz, nadwrażliwiec lub pieniacz.
+* Przełożony stosuje: niesprawiedliwe napomnienia, straszenie, degradację pozycji w grupie przez przydzielanie mniej ważnych zadań, często poniżej kompetencji i umiejętności.
+* Ciągłe nieuzasadnione pretensje i oskarżenia w środowisku pracy, poczucie całkowitej bezsilności, może u niektórych z prześladowanych osób wyzwolić zachowania agresywne.
+* Są one jednak kładzione na karb dziwności nadwrażliwca, pieniacza i odmieńca, a więc nie spełniają roli obronnej.
+* Objawy i dolegliwości psychosomatyczne zaostrzają się i bezwzględnie wymagają interwencji lekarskiej. Mogą się rozwinąć choroby takie jak: choroba wrzodowa, zawał mięśnia serowego, udar mózgu, astma oskrzelowa.
+
+    * **Faza zaawansowana**:
+* Poszkodowana osoba nie potrafi sprostać stawianym jej wymaganiom zawodowym i społecznym.
+* Świadomość tego faktu oraz zagrożenie utratą pracy a co za tym idzie pozycji społecznej i środków do życia powoduje stany depresyjne lub, przeciwnie, niekontrolowane wybuchy wściekłości i agresji kierowanej przeciwko współpracownikom. Dalsze zatrudnienie na zajmowanym stanowisku jest niemożliwe, teraz już z przyczyn obiektywnych.
+* Co dziesiąty pracownik ma w zaawansowanej fazie mobbingumyśli samobójcze a co setny podejmuje próbę samobójczą.
+* Schorzenie, opisywane przez psychiatrów jako potraumatycznestany lękowe (PTSD-posttraumaticstressdisorder) występujące u takich osób porównywane jest przez specjalistów do stanu, jaki opisywano u osób, które przeszły doświadczenie obozu koncentracyjnego.
+
+    * **Faza zaawansowana**:
+* Poszkodowana osoba nie potrafi sprostać stawianym jej wymaganiom zawodowym i społecznym.
+* Świadomość tego faktu oraz zagrożenie utratą pracy a co za tym idzie pozycji społecznej i środków do życia powoduje stany depresyjne lub, przeciwnie, niekontrolowane wybuchy wściekłości i agresji kierowanej przeciwko współpracownikom. Dalsze zatrudnienie na zajmowanym stanowisku jest niemożliwe, teraz już z przyczyn obiektywnych.
+* Co dziesiąty pracownik ma w zaawansowanej fazie mobbingumyśli samobójcze a co setny podejmuje próbę samobójczą.
+* Schorzenie, opisywane przez psychiatrów jako potraumatycznestany lękowe (PTSD-post traumatic stress disorder) występujące u takich osób porównywane jest przez specjalistów do stanu, jaki opisywano u osób, które przeszły doświadczenie obozu koncentracyjnego.
+
+## 47. Bezrobocie i pracoholizm
+
+* _**Bezrobocie jako kwestia społeczna**_ – dotyczy dużych grup społecznych, jest odbierana przez tę grupę jako nieprawidłowe, zakłóca jej prawidłowy rozwój, wywołuje społeczny niepokój, jest źródłem napięć społecznych. Nie może być w pełni rozwiązane w ramach grupy przy wykorzystaniu dostępnych jej metod i możliwości, może być rozwiązane tylko drogą podjęcia szerokich działań przez państwo.
+* Bezrobotny to człowiek, który chce pracować i aktywnie poszukuje pracy, ale nie może utrzymać zatrudnienia przy istniejących stawkach płacy.
+
+`w jakim świecie niby XD`
+
+   * Wyróżniamy dwa rodzaje bezrobocia:
+   
+* **bezrobocie dobrowolne** - spowodowane jest tym że część pracowników poszukujących pracy nie akceptuje poziomu płacy realnej są skłonni pracować przy wyższej stawce, a pracodawcy gotowi są ich zatrudnić poniżej płacy realnej. Zjawisko to jest głównym powodem powstawania tej odmiany bezrobocia gdzie preferencje siły roboczej nie pokrywają się z rachunkiem opłacalności pracodawców
+* **bezrobocie przymusowe** - czyli niezależne od zachowania bezrobotnych. Ekonomia klasyczna tłumaczy je tym, że istnienie ustawowej gwarancji płacy minimalnej, zafałszowuje sygnały na rynku pracy, stan równowagi rynkowej zostaje zniekształcony, nawet przy spadku cen i popytu, wzroście bezrobocia, place i tym samym koszty nie maleją, poprzez strajki związki zawodowe wymuszają stawki powyżej wolnej ceny rynkowej
+
+####Podział bezrobocia ze względu na przyczyny:
+
+* **bezrobocie strukturalne** - które charakteryzuje się zastojem gospodarczym i nowe roczniki napływające na rynek pracy nie mogą jej znaleźć. Istnienie wiec samego zjawiska bezrobocia tłumaczone jest tym że chęć podjęcia pracy i zgłoszonej jej podaży nie daje się w pełni urzeczywistnić
+* **bezrobocie technologiczne** – wynika ze zmiany techniki, technologii, oraz z zastąpienia pracy żywej pracą maszyn, 
+* **bezrobocie koniunkturalne** - Keynesowska teoria przymusowego bezrobocia przyjmuje że jest ono wywołane zbyt małym popytem konsumpcyjnym i inwestycyjnym, który powoduje zbyt małe wykorzystanie zdolności produkcyjnych, poziom popytu stale ulega wahaniom, czyli jest zależny od koniunktury, stad nazwa bezrobocia. W fazach wysokiej koniunktury popyt rozszerza się i bezrobocie spada nawet do poziomu bezrobocia naturalnego. 
+* **bezrobocie frykcyjne** - obejmujące również ludzi zmieniających prace, przejściowo jej poszukujących z rożnych powodów. 
+* **bezrobocie sezonowe** – uzależnione od pór roku (np. budownictwo)
+ 
+     * Ze względu na formę występowania bezrobocia wyróżniamy:
+     
+
+* **bezrobocie krótkookresowe** - do 3 miesięcy bez zatrudnienia.
+* **bezrobocie średniookresowe** – od 3 do 12 miesięcy bez zatrudnienia. 
+* **bezrobocie długookresowe** – dotyczy osób. które pozostają bez pracy od 6 do 12 miesięcy.
+
+_To ostatnie może przekształcić się w **bezrobocie długotrwałe**, bowiem czym dłuższa przerwa w pracy, tym maleją szanse na ponowne jej uzyskanie. Rosnące wymagania pracodawców, zmiany technik i organizacji pracy, konieczność uzupełniania kwalifikacji lub w ogóle zmiany zawodu nie sprzyjają skracaniu okresu pozostawania bez pracy_
+
+**Dłuższe pozostawanie bez pracy powoduje, że ewentualni kandydaci stają się, ze względu na dezaktualizację swoich wiadomości i doświadczeń, mało interesujący dla pracodawców.**
+  
+     * Ponadto wyróżniamy:
+     
+* **bezrobocie ukryte** –rozumiane jako bezrobocie wśród zatrudnionych. Dotyczy ludzi nie ujętych w statystykach bezrobocia, ponieważ nie rejestrują się w urzędach pracy. Osoby te posiadają dochód, ale nie mają zawartego stosunku ubezpieczeniowego. Występuje głównie na wsi (nadmiar rąk do pracy, dawniej –przerost administracji).
+* **bezrobocie jawne** – zarejestrowane (da się określić).
+
+###Pracoholizm
+
+> To obsesyjno-kompulsyjna forma zaburzeń zachowania, przejawiająca się w przymusie nieustannego zaangażowania w pracę lub inną aktywność o charakterze pracy 
+
+(Wojdyło, 2005)
+
+    * W zależności od przyczyn wyróżniamy:
+
+* _**Pracoholizm osobowościowy**_ – chroniczne uzależnienie, związane z obsesyjno-kompulsyjnymtypem osobowości i charakterystycznymi dla niej cechami psychicznymi (upór, ambicja, perfekcjonizm, samokontrola, sztywność, drobiazgowość)
+* _**Pracoholizm sytuacyjny**_ (tzw. pseudopracoholizm), który ma charakter przejściowy (trwa do czasu oddziaływania stresorów), reaktywny i strategiczny (bazuje na mechanizmach radzenia sobie z sytuacja trudną)
+
+#####Właściwości pracoholizmu:
+* Wewnętrzny przymus pracy związany z cechami osobowości obsesyjno-kompulsyjnej(anankastycznej), który sprawia, że mała ilość pracy odczuwana jest jako przeciążenie
+* Przeciążenie pracą (lecz nie obciążenie nią)
+* Odniesienie do każdej aktywności ukierunkowanej na cel, postrzeganej przez jednostkę jako praca
+* Odniesienie do różnych pozycji zawodowych (nie tylko kierowniczych)
+* Obecność fizjologicznego komponentu –uzależnienie od adrenaliny wyzwalanej w sytuacji stresu
+* Występowanie objawów psychosomatycznych –bóle i zawroty głowy, zmęczenie, alergie, dolegliwości żołądkowe, tiki nerwowe.
+
+#####Klasyfikacja pracoholizmu
+(Robinson, Wojdyło, Frąszczak)
+
+* **Niestrudzeni, nieustępliwi pracoholicy** – to perfekcjoniści, odczuwający silny przymus pracy, realizujący równocześnie wiele różnych czynności. Ich celem jest efektywność i jakość pracy. Odczuwają silną potrzebę aprobaty społecznej.
+* **„Bulimiczni” pracoholicy** – mechanizm ich działania to oscylowanie między bezczynnością a stanami intensywnej aktywności. Nie pracuje przez długi czas a potem pod presja czasu rzuca się w wir zadań. Bazą takich zachowań jest chęć uniknięcia niepowodzenia, lęk przed niezrealizowaniem zadania w sposób perfekcyjny.
+* **Pracoholicy z deficytem koncentracji uwagi** – cenią ryzyko i wyzwania. Szybko się nudzą, przejawiają trudności z koncentracja na pracy (często pracują nad kilkoma zadaniami, nie kończąc ich, przerzucają uwagę na kolejne zadania), nieustannie poszukują stymulacji. Lubią sporty ekstremalne (skoki ze spadochronem i niebezpieczne sytuacje (gra na giełdzie).
+* **Pracoholicy „rozkoszujący się pracą”** – działają metodycznie, powoli i z rozwagą. Wysoka jakość pracy i silna potrzeba perfekcjonizmu, co utrudnia realna ocenę końcowych efektów działania. Nieświadomie generują kolejna listę czynności i zadań „koniecznych” do wykonania. Wszystko to opóźnia realizacje projektu. Są nisko wydajni i drobiazgowi. Są postrzegani jako osoby trudne we współpracy.
+* **Troskliwi pracoholicy** – charakterystyczni dla profesji, w których nadrzędna wartość stanowi pomoc innym ludziom. (duchowni, lekarze, nauczyciele). Prospołeczna działalność pozwala im czuć się potrzebnym, co tym samym zapewnia właściwy poziom samooceny i samoakceptacji.
+
+_**Pracownik optymalny vs pracownik uzależniony – różnice na poziomie:**_
+
+* Poziomie motywacji
+* Intensywność relacji społecznych
+* Jakość pracy
+
+_**Pracownik optymalny**_ – potrafi współpracować, cieszą go wyniki pracy, jest efektywny, zmotywowany wewnętrznie, nie boi się ryzyka, uczy się na błędach, jest towarzyski.
+
+_**Pracoholik**_ – najlepiej pracuje sam, pracuje dla samego faktu pracy, motywowany jest lekiem przed utratą pracy i statusu, jest mało efektywny, zaabsorbowany szczegółami, unika ryzyka ( w tym twórczych i innowacyjnych pomysłów i rozwiązań), ma niska tolerancje błędów, a gdy je popełni ma tendencję do ich ukrywania, nie ma przyjaciół a jeśli już to w miejscu pracy.
+
+## 48. Dehumanizacja pracy
+
+* **Dehumanizacja** (łac. humanus –ludzki) oznacza dosłownie odczłowieczenie.
+* Dehumanizacja to postrzeganie człowieka jako przedmiotu pozbawionego uczuć i emocji. Traktuje się człowieka bezosobowo –jako „to”, a nie „ty”.
+* Dehumanistyczny stosunek do innych jest obiektywny, analityczny, pozbawiony empatycznych reakcji.
+* Proces dehumanizacjichroni jednostkę przed pobudzeniem emocjonalnym, które mogłoby być przykre, przytłaczające, odbierające siły lub mogłoby zakłócać realizowane w danej chwili zadanie. Normalni ludzie, np. żołnierze, muszą czasami odczłowieczyć innych (przeciwnika), by móc zabijać na wojnie. Dehumanizacja wroga pozwala podważyć zasadę „Nie zabijaj!
+* Nowoczesne technologie, automatyzacja, komputeryzacja
+
+## 49. Jakość życia `<333` w zawodach wysokiego ryzyka
+
+* Zawody trudne i niebezpieczne
+* Stanowiska wymagające szczególnej sprawności psychofizycznej
+* Praca z narażeniem życia (materiały wybuchowe, prad elektryczny, praca na wysokości, żywioły)
+* Praca z zagrożeniem dla innych
+* Praca z wysokim obciążeniem psychicznym
+* Obsługa urządzeń wymagających szczególnych predyspozycji psychofizycznych
+* Strażak, górnik, pilot, ratownik górski, policjant, kierowca, kontroler ruchu
+
+
+
+
+#K O N I E C 
 
 
 
