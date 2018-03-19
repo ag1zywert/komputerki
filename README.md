@@ -1,6 +1,6 @@
 # komputerki
 
-**NOTATKI Z PSYCH PRACY [TU] (https://github.com/ag1zywert/komputerki/blob/master/psych_pracy.Rmd), LENIE** 
+**NOTATKI Z PSYCH PRACY [TU](https://github.com/ag1zywert/komputerki/blob/master/psych_pracy.Rmd), LENIE** 
 
 A napiszę se coś nowego, bo teraz umiem robić _śmieszne_ rzeczy tu.
 Kurde nie sądziłam, że są takie **cool** rzeczy na świecie (jak ggplot2 for example) i, że nauczę się tego w tej szkole, to już w ogóle _abstrakcja_ niemała. Fajnie, naprawdę fajnie, podlinkuję tutaj dobrą nutkę, bo nie wiem co linkować, a skoro umiem to co mi tam
