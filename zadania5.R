@@ -31,7 +31,10 @@ dobre_filmy <- filter(movies, votes > 100, budget > 3000000)
   ggplot(data = dobre_filmy) +
   geom_point(mapping = aes(x = budget, y = rating, alpha = 3/10)) +
     geom_smooth(mapping = aes(x = budget, y = rating)) +
-    labs(title = "Czy wyøszy budøet powoduje, øe film jest lepszy?")
+    labs(title = "Czy wyzszy budzet powoduje, ze film jest lepszy?")
+
+#zadanie 5-8
+#Nadejdzie jak co≈õ, niebawem
     
 
 
