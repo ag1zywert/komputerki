@@ -1,4 +1,5 @@
 library (tidyverse)
+read_csv(movies.csv)
 str(movies)
 movies
 
@@ -8,12 +9,12 @@ filter(movies, year == 2005, Comedy == 1)
 
 # zadanie 5-3
 
-select(movies, title, year, budget) %>% arrange(movies, desc(budget))
+select(movies, title, year, budget) %>% arrange(desc(budget))
 
 #zadanie 5-4
 
 filter(movies, Animation == 1, year >=1990 & year < 2000) %>%
-arrange(movies, desc(rating))
+arrange(desc(rating))
 
 #zadanie 5-5
 
