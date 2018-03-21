@@ -23,8 +23,8 @@ arrange(dramaty, desc(length))
 
 #zadanie 5-6
 
-mpaa_rating <- group_by(movies, mpaa)
-summarise (mpaa_rating, srednia = mean(rating), odchylenie = mad(rating))
+mpaa_rating <- group_by(movies, mpaa) %>%
+summarise (srednia = mean(rating), odchylenie = mad(rating))
 
 #zadanie 5-7
 
