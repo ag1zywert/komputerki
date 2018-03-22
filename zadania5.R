@@ -35,7 +35,16 @@ dobre_filmy <- filter(movies, votes > 100, budget > 3000000)
     labs(title = "Czy wyzszy budzet powoduje, ze film jest lepszy?")
 
 #zadanie 5-8
-#Nadejdzie jak coś, niebawem
+#Zadanie 5-8
+  #1
+  krotkie_filmy <- filter(movies, length < 200 )
+    ggplot(data = krotkie_filmy) +
+  geom_freqpoly(mapping = aes(length), bindwith = 1)
+    
+    
+#nie wiem jak z rurką to zrobić :(    
+#NIE WIEM TEŻ JAK MOGĘ TO WYJAŚNIĆ TO CO WIDZĘ, ALE WYGLĄDA MI TO NA ROZKŁAD NORMALNY :)
+
     
 
 
