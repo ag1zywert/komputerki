@@ -34,7 +34,6 @@ dobre_filmy <- filter(movies, votes > 100, budget > 3000000)
     geom_smooth(mapping = aes(x = budget, y = rating)) +
     labs(title = "Czy wyzszy budzet powoduje, ze film jest lepszy?")
 
-#zadanie 5-8
 #Zadanie 5-8
   #1
   krotkie_filmy <- filter(movies, length < 200 )
@@ -43,7 +42,7 @@ dobre_filmy <- filter(movies, votes > 100, budget > 3000000)
     
     
 #nie wiem jak z rurką to zrobić :(    
-#NIE WIEM TEŻ JAK MOGĘ TO WYJAŚNIĆ TO CO WIDZĘ, ALE WYGLĄDA MI TO NA ROZKŁAD NORMALNY :)
+#NIE WIEM TEŻ JAK MOGĘ TO WYJAŚNIĆ TO CO WIDZĘ, ALE WYGLĄDA MI TO NA ROZKŁAD NORMALNY, w sensie jakby podzielić na krótko i długo to wewnątrz ich są dwa maluśki i wielgachny rozkład normalny :)
 
     
 
