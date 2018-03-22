@@ -1,7 +1,7 @@
 library (tidyverse)
-read_csv(movies.csv)
-str(movies)
-movies
+library(readr)
+movies <- read_csv("movies.csv")
+View(movies)
 
 #zadanie 5-2
 
