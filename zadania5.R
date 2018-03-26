@@ -50,9 +50,8 @@ dobre_filmy <- filter(movies, votes > 100, budget > 3000000)
 
 #2
 
-rodzaj <- ifelse(length =< 50, "krotkometrazowy", "niekrotkometrazowy") %>%
-  ggplot()
-  geom_freqpoly (mapping = aes(rodzaj), color = length)
+Short <- filter(movies, length > 50)
+  mutate(is_short = ifelse(Short == 1, TRUE, FALSE))
 
 #nie wiem jak to zrobić 
     
