@@ -40,10 +40,21 @@ dobre_filmy <- filter(movies, votes > 100, budget > 3000000)
     ggplot(data = krotkie_filmy) +
   geom_freqpoly(mapping = aes(length), bindwith = 1)
     
-    
-#nie wiem jak z rurką to zrobić :(    
+#WERSJA Z RURKOM
+
+  filter(movies, length < 200) %>%
+  ggplot() +
+  geom_freqpoly(mapping = aes(length), bindwith = 1)
+
 #NIE WIEM TEŻ JAK MOGĘ TO WYJAŚNIĆ TO CO WIDZĘ, ALE WYGLĄDA MI TO NA ROZKŁAD NORMALNY, w sensie jakby podzielić na krótko i długo to wewnątrz ich są dwa maluśki i wielgachny rozkład normalny :)
 
+#2
+
+rodzaj <- ifelse(length =< 50, "krotkometrazowy", "niekrotkometrazowy") %>%
+  ggplot()
+  geom_freqpoly (mapping = aes(rodzaj), color = length)
+
+#nie wiem jak to zrobić 
     
 
 
