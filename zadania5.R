@@ -51,8 +51,9 @@ dobre_filmy <- filter(movies, votes > 100, budget > 3000000)
 #2
 
 Short <- filter(movies, length > 50)
-  mutate(is_short = ifelse(Short == 1, TRUE, FALSE))
-
+  mutate(is_short = ifelse(Short == 1, TRUE, FALSE)) %>%
+ ggplot() +
+  geom_freqpoly(mapping = aes(length), bindwith = 1, color = Short)
 #nie wiem jak to zrobić 
     
 
