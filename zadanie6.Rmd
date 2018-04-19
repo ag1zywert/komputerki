@@ -96,4 +96,5 @@ select(diamonds, color)
 ```
 
 ##### **To by było chyba na tyle, mam nadzieję ogromną, że o to chodziło.**
+##### **W celu zrewidowania czy umiem w rmarkdown można zajrzeć [tu](https://ag1zywert.github.io/notatki/)**
 
