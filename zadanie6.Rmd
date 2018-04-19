@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-#### _**Nie każdy superbohater w uniwersuw Marvela włada jakimiś nadludzkimi zdolnościami czy też mocami. Istnieją tacy, których "mocą" jest opanowanie w kozackim stopniu jakiejś sztuki walki (głównie z dalekiego wschodu). Nie sprawia to wcale, że są gorszymi superhero, niejednokrotnie dawali radę takim wymiataczom jak Hulk czy Captain America. Poniżej przedstawię moich trzech ulubionych z tego "gatunku"**_:
+#### _**Nie każdy superbohater w uniwersum Marvela włada jakimiś nadludzkimi zdolnościami czy też mocami. Istnieją tacy, których "mocą" jest opanowanie w kozackim stopniu jakiejś sztuki walki (głównie z dalekiego wschodu). Nie sprawia to wcale, że są gorszymi superhero, niejednokrotnie dawali radę takim wymiataczom jak Hulk czy Captain America. Poniżej przedstawię moich trzech ulubionych z tego "gatunku"**_:
 
 * **Iron Fist**
 * **Shang-Chi**
