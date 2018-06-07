@@ -1,0 +1,67 @@
+---
+title: "Czy warto się bić?"
+author: "Agata Zywert"
+date: "7 czerwca 2018"
+output:
+  html_document:
+    theme: spacelab
+    df_print: paged
+    toc: true
+    toc_float: true
+bibliography: library.bib
+csl: apa.csl
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Jakie są psychologiczne plusy bicia ludzi?
+
+Ogólnie może kogoś to śmieszyć, ale nie jest to śmieszne. Badania wskazują, że sztuki walki pozytywnie wpływają na wiele aspektów zdrowia, a co ważne dla nas przyszłych i niedoszłych psychologów sztuki walki wpłtwają pozytywnie na psychologiczny well-being a także np. zmniejszają agresję u dzieci z ADHD [@Woodward2009] 
+
+### Jak bicie ludzi wpływa na ogólną agresję?
+
+Badania wykazują, że jeśli trener jest wspaniały i w ogóle, to trenowanie sztuk walki ma działanie terapeutyczne, pozwala się wyciszyć i dzięki nauce kontrolowania agresji zmniejsza agresję u osób dorosłych na długi długi czas **także u ludzi, którzy już mają jakiś problem z agresją** [@Twemlow1998]
+
+### Jak bicie ludzi może pomóc dzieciom.
+
+Badania (i to eksperymentalne!) pokazały, że trenowanie sztuk walki pomaga w samoregulacji u dzieci `oni akurat użyli teakwondo, które _imo_ jest trochę lamerskie`, no ale co poradzić [@Lakes2004]
+
+
+### Jakie pytania warto sobie zadać odnośnie relacji sztuki walki/zdrowie psychiczne
+
+1. Czy sztuki walki mogą pomóc osobom o za niskiej samoocenie?
+2. Czy osoby o lepszej samoocenie mają lepsze wyniki sportowe?
+4. Czy ryzyko urazu i możliwość załamki po przegranych zawodach jest na tyle duży ryzykiem, że zważając na wszystkie plusy tej dziedziny warto się ich obawiać?
+5. Czy sztuki walki mogą terapeutycznie pomóc np. ofiarom napadów lub gwałtów?
+
+### Czemu to jest ciekawe?
+
+* Nie wiem
+* Ale bardzo mocno chiałabym zająć się tym w przyszłości
+* Chciałabym też wiedzieć, czemu ludzie przerywają trening
+* I czemu nie można kupić tytanowych więzadeł
+
+
+
+### Cieszę się, że przyszłam na tipny
+
+Od kiedy okazało się, że można robić takie ładne spisy treści to moje życie odmieniło się na lepsze. Wcześniej też nie umiałam cytowań, a teraz spokojnie mogę zostać naukowcem. 
+
+### Oto są takie code chunki
+
+#### Boże można je tak fajnie wsadzać w nagłówki o mniejszym poziomie
+
+```{r echo = TRUE}
+library(tidyverse)
+diamonds %>% 
+  filter (cut == "Premium") %>% 
+  arrange(desc(price)) %>% 
+  top_n(10)
+```
+
+
+
+### Bibliografia
